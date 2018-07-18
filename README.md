@@ -1,3 +1,5 @@
+# Practical Probabilistic Programming Examples
+
 To run the Practical Probabilistic Programming examples:
 
 1) Install SBT v0.13.8 for your chosen operating system
